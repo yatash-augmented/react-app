@@ -1,0 +1,31 @@
+.dashboard {
+    padding: 20px;
+  }
+  
+  .favorites {
+    margin-top: 20px;
+  }
+  
+  .favorites ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .favorites li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .favorites img {
+    margin-right: 10px;
+  }
+  .list-item {
+    flex: 1 0 21%; 
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    text-align: center;
+  }
+  

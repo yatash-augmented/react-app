@@ -1,0 +1,23 @@
+.list-page {
+    padding: 20px;
+  }
+  
+  .list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .list-item {
+    flex: 1 0 21%;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    text-align: center;
+  }
+  
+  .list-item img {
+    max-width: 100%;
+    height: auto;
+  }
+  
